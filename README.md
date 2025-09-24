@@ -1,10 +1,1 @@
-"# Jarvis_AI" 
-"# Jarvis_AI" 
-"# Jarvis_AI" 
-"# Jarvis_AI" 
-"# Jarvis_AI" 
-"# Jarvis_AI" 
-"# Jarvis_AI" 
-"# Jarvis_AI" 
-"# Jarvis_AI" 
-"# Jarvis_AI" 
+#This is a project that i have been working on lately after learning python , in this project i have used multiple packages and openAI but in order to run this project one havr to put a running openAI API key. I learned a lot from this project about AI and how they work.
